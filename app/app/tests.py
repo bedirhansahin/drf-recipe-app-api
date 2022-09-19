@@ -2,6 +2,7 @@
 Sample Tests
 """
 from re import S
+
 from django.test import SimpleTestCase
 
 from app import calc
