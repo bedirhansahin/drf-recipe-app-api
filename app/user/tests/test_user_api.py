@@ -9,6 +9,7 @@ from rest_framework.test import APIClient
 from rest_framework import status
 
 
+LIST_USER_URL = reverse('user:list')
 CREATE_USER_URL = reverse('user:create')
 TOKEN_URL = reverse('user:token')
 ME_URL = reverse('user:me')
@@ -24,6 +25,17 @@ class PublicUserApiTests(TestCase):
 
     def setUp(self):
         self.client = APIClient()
+
+    def test_list_user_success(self):
+        payload = {
+            'id': 1,
+            'email': 'test@example.com',
+            'name': 'Test Name',
+            'is_active': 'True',
+        }
+        res = self.client.get(LIST_USER_URL, payload)
+
+        self.assertEqual(res.status_code, status.HTTP_200_OK)
 
     def test_create_user_success(self):
         payload = {
