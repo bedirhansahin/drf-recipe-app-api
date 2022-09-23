@@ -20,6 +20,7 @@ class ListUserView(generics.ListAPIView):
     queryset = get_user_model().objects.all()
     # permission_classes = [permissions.IsAdminUser]
 
+
 class CreateUserView(generics.CreateAPIView):
     """Create a new user in the system."""
     serializer_class = UserSerializer

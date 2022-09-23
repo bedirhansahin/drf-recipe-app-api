@@ -8,14 +8,13 @@ from django.contrib.auth import (
 from django.utils.translation import gettext as _
 
 from rest_framework import serializers
-from rest_framework import permissions
 
 
 class UserListSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = get_user_model()
-        exclude = ['password', 'groups', 'user_permissions', 'last_login', 'is_staff', 'is_superuser']
+        fields = ['id', 'email', 'name', 'is_active']
 
 
 class UserSerializer(serializers.ModelSerializer):
