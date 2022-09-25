@@ -21,6 +21,7 @@ INSTALLED_APPS = [
 
     'core',
     'user',
+    'recipe',
 
     'rest_framework',
     'drf_spectacular',
