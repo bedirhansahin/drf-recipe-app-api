@@ -23,7 +23,6 @@ def detail_url(recipe_id):
     return reverse('recipe:recipe-detail', args=[recipe_id])
 
 
-
 def create_recipe(user, **params):
     """Create a sample recipe"""
     defaults = {

@@ -1,8 +1,6 @@
 """
 Serializers for the recipe api view
 """
-from django.utils.translation import gettext as _
-
 from rest_framework import serializers
 
 from core.models import Recipe
