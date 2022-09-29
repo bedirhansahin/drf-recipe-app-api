@@ -1,6 +1,7 @@
 """
 Views for the recipe APIs
 """
+# from django.core.exceptions import ValidationError
 from rest_framework import viewsets
 from rest_framework.authentication import TokenAuthentication
 from rest_framework.permissions import IsAuthenticated
@@ -26,3 +27,10 @@ class RecipeViewSet(viewsets.ModelViewSet):
             return serializers.RecipeSerializer
 
         return self.serializer_class
+
+    def perform_create(self, serializer):
+        """Create a new recipe"""
+        # queryset = Recipe.objects.filter(user=self.request.user) # If we want it be unique
+        # if queryset.exists():
+        #     raise ValidationError('This recipe already exist')
+        serializer.save(user=self.request.user)
