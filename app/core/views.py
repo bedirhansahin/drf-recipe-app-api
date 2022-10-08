@@ -9,4 +9,3 @@ from rest_framework.response import Response
 def health_check(request):
     """Return Successful response."""
     return Response({'healthy': True})
-    
