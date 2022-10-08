@@ -16,6 +16,7 @@ You can look to test codes of the project in /app/core/tests and /app/recipe/tes
 ! Docker
 ! Amazon Web Services to deploy
 ! Github Actions
+! PostgreSQL
 ```
 
 ## You can:
