@@ -4,7 +4,7 @@ This project made by [Bedirhan Şahin](https://www.linkedin.com/in/bedirhan-sahi
 
 You can cast a look at Swagger by [click here](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
 
-### I have added all endpoints to the bottom of the page`#990000`
+### ![#f03c15]I have added all endpoints to the bottom of the page
 
 You can:
 
