@@ -7,8 +7,9 @@ You can cast a look at Swagger by [click here](http://ec2-34-228-80-140.compute-
 
 You can look to test codes of the project in /app/core/tests and /app/recipe/tests
 
-Technologies I used while designing the project:
+
 ```diff
+- Technologies I used while designing the project:
 ! Django Rest Framework
 ! DRF Spectecular
 ! Rest Framework Authtoken
@@ -17,8 +18,9 @@ Technologies I used while designing the project:
 ! Github Actions
 ```
 
-You can:
+
 ```diff
+- You can:
 + Create a new user
 + Update and List all user
 + Create a new token of the user you created
