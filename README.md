@@ -7,9 +7,9 @@ You can cast a look at Swagger by [click here](http://ec2-34-228-80-140.compute-
 
 You can look to test codes of the project in /app/core/tests and /app/recipe/tests
 
+## Technologies I used while designing the project:
 
 ```diff
-- Technologies I used while designing the project:
 ! Django Rest Framework
 ! DRF Spectecular
 ! Rest Framework Authtoken
@@ -18,9 +18,9 @@ You can look to test codes of the project in /app/core/tests and /app/recipe/tes
 ! Github Actions
 ```
 
+## You can:
 
 ```diff
-- You can:
 + Create a new user
 + Update and List all user
 + Create a new token of the user you created
@@ -32,6 +32,7 @@ You can look to test codes of the project in /app/core/tests and /app/recipe/tes
 ```
 
 ## Download the project
+
 First, create a folder and run ```git clone https://github.com/bedirhansahin/recipe-app-api.git ```
 
 After, run the following commands from CMD:
@@ -39,5 +40,13 @@ After, run the following commands from CMD:
 ``` docker-compose build . ```
 ``` docker-compose up ```
 
-## If you want to look test codes you can run:
-``` docker-compose run --rm app sh -c "python manage.py test" ```
+and you can go to [this address](http://127.0.0.1:8090/) on your own browser. You will also see endpoints there.
+
+:warning: **Don't forget use Docker on your computer**:
+
+## If you want to run any command:
+
+``` docker-compose run --rm app sh -c "..." ```
+like
+```docker-compose run --rm app sh -c "python manage.py createsuperuser" ```
+
