@@ -3,7 +3,7 @@
 ### This project made by [Bedirhan Şahin](https://www.linkedin.com/in/bedirhan-sahin/) to impenetration the architecture of REST API
 
 
-You can cast a look at Swagger by [click here](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
+:point_up: **You can cast a look at Swagger by [click here](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)**
 
 :point_up: **You can view the admin page after creating a user by [click here](http://ec2-34-228-80-140.compute-1.amazonaws.com/admin/)**
 
