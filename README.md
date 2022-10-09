@@ -17,7 +17,7 @@ You can look to test codes of the project in /app/core/tests and /app/recipe/tes
 ! TestCase(Django Test)
 ! Rest Framework Authtoken
 ! Docker
-! Amazon Web Services to deploy
+! Amazon Web Services EC2
 ! Github Actions
 ! PostgreSQL
 ```
