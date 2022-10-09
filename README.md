@@ -1,9 +1,11 @@
 # recipe-app-api
 
-This project made by [Bedirhan Şahin](https://www.linkedin.com/in/bedirhan-sahin/) to impenetration the architecture of REST API
+### This project made by [Bedirhan Şahin](https://www.linkedin.com/in/bedirhan-sahin/) to impenetration the architecture of REST API
+
 
 You can cast a look at Swagger by [click here](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
 
+:note: **You can view the admin page after creating a user by [click here](http://ec2-34-228-80-140.compute-1.amazonaws.com/admin/)**
 
 You can look to test codes of the project in /app/core/tests and /app/recipe/tests
 
@@ -23,8 +25,8 @@ You can look to test codes of the project in /app/core/tests and /app/recipe/tes
 
 ```diff
 + Create a new user
-+ Update and List all user
 + Create a new token of the user you created
++ Update and List all user
 + Create, Update, Delete and List all recipes
 + Create a new tag and ingredient when u create a new recipe
 + Filter the recipe by tag and ingredient
@@ -48,6 +50,9 @@ and you can go to [this address](http://127.0.0.1:8090/) on your own browser. Yo
 ## If you want to run any command:
 
 ``` docker-compose run --rm app sh -c "..." ```
-like
+
+Like
+
 ```docker-compose run --rm app sh -c "python manage.py createsuperuser" ```
+
 
