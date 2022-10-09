@@ -62,12 +62,12 @@ Like
 ```docker-compose run --rm app sh -c "python manage.py createsuperuser" ```
 
 ## How to get use swagger?
-```
->You need to open [Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
->Create a new user
->Create a new token using the user you just created
->Click the autherize button which on the top right of the page
->Type Token 'token key you copied' in tokenAuth (apiKey) like **Token a3da72a2257...**
->After clicking the Autherize Button, you can do whatever you want. Have fun :)
-```
+
+--> You need to open [Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
+--> Create a new user
+--> Create a new token using the user you just created
+--> Click the autherize button which on the top right of the page
+--> Type Token 'token key you copied' in tokenAuth (apiKey) like **Token a3da72a2257...**
+--> After clicking the Autherize Button, you can do whatever you want. Have fun :)
+
 
