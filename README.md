@@ -5,9 +5,9 @@
 
 :point_up: **[Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/) is avaliable**
 
-:point_up: **You can view the [admin page](http://ec2-34-228-80-140.compute-1.amazonaws.com/admin/) after creating a user by**
+:point_up: **You can view the [admin page](http://ec2-34-228-80-140.compute-1.amazonaws.com/admin/) after creating a user**
 
-You can look to test codes of the project in /app/core/tests and /app/recipe/tests
+You can look to test codes of the project in **/app/core/tests** and **/app/recipe/tests**
 
 ## Technologies I used while designing the project:
 
@@ -16,7 +16,7 @@ You can look to test codes of the project in /app/core/tests and /app/recipe/tes
 - DRF Spectecular
 - Rest Framework Authtoken
 - Docker
-- Amazon Web Services to deploy
+- Amazon Web Services
 - Github Actions
 - PostgreSQL
 
@@ -63,6 +63,11 @@ Like
 
 ## How to get use swagger?
 
->First You need to open [Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
+>You need to open [Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
+>![Image-1](https://www.hizliresim.com/luk94et)
+>![Image-2](https://www.hizliresim.com/474901g)
+>![Image-3](https://www.hizliresim.com/178e7h4)
+>![Image-4](https://www.hizliresim.com/ohdqu6a)
+>After clicking the Autherize Button, you can do whatever you want. :) Have fun
 
 
