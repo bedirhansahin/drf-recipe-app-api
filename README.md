@@ -5,7 +5,7 @@
 
 You can cast a look at Swagger by [click here](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
 
-**Note** **You can view the admin page after creating a user by [click here](http://ec2-34-228-80-140.compute-1.amazonaws.com/admin/)**
+:point_up: **You can view the admin page after creating a user by [click here](http://ec2-34-228-80-140.compute-1.amazonaws.com/admin/)**
 
 You can look to test codes of the project in /app/core/tests and /app/recipe/tests
 
