@@ -63,11 +63,11 @@ Like
 
 ## How to get use swagger?
 
-- You need to open [Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
-- Create a new user
-- Create a new token using the user you just created
-- Click the autherize button which on the top right of the page
-- Type Token 'token key you copied' in tokenAuth (apiKey) like **Token a3da72a2257...**
-- After clicking the Autherize Button, you can do whatever you want. Have fun :)
+1. You need to open [Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
+2. Create a new user
+3. Create a new token using the user you just created
+4. Click the autherize button which on the top right of the page
+5. Type Token 'token key you copied' in tokenAuth (apiKey) like **Token a3da72a2257...**
+6. After clicking the Autherize Button, you can do whatever you want. Have fun :)
 
 
