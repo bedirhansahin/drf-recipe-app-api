@@ -14,6 +14,7 @@ You can look to test codes of the project in /app/core/tests and /app/recipe/tes
 ```diff
 ! Django Rest Framework
 ! DRF Spectecular
+! TestCase(Django Test)
 ! Rest Framework Authtoken
 ! Docker
 ! Amazon Web Services to deploy
