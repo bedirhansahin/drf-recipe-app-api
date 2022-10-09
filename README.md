@@ -64,7 +64,7 @@ Like
 ## How to get use swagger?
 
 >You need to open [Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
-![Image-1](assets/1.png)
+!<img src="asesets/1.png" width="128"/>
 ![Image-2](assets/2.png)
 ![Image-3](assets/3.png)
 ![Image-4](assets/4.png)
