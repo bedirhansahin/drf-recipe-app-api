@@ -26,11 +26,11 @@ You can look to test codes of the project in **/app/core/tests** and **/app/reci
 
 - Create a new user
 - Create a new token of the user you created
-- Update and List all user
+- Update and List all users
 - Create, Update, Delete and List all recipes
-- Create a new tag and ingredient when u create a new recipe
-- Filter the recipe by tag and ingredient
-- Delete or Update ingredient and tags
+- Create a new tag and ingredient when you create a new recipe
+- Filter the recipe by tags and ingredients
+- Delete or Update ingredients and tags
 - Upload an image for recipes
 
 
@@ -67,7 +67,7 @@ Like
 2. Create a new user
 3. Create a new token using the user you just created
 4. Click the autherize button which on the top right of the page
-5. Type Token 'token key you copied' in tokenAuth (apiKey) like **Token a3da72a2257...**
+5. Type **Token 'token key you copied'** in tokenAuth (apiKey) like **Token a3da72a2257...**
 6. After clicking the Autherize Button, you can do whatever you want. Have fun :)
 
 
