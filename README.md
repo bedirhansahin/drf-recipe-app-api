@@ -55,4 +55,5 @@ Like
 
 ```docker-compose run --rm app sh -c "python manage.py createsuperuser" ```
 
-Thanks Mark Winterbottom for this [valuable course](https://www.udemy.com/course/django-python-advanced/) and help.
+
+:boom: **Thanks Mark Winterbottom for this [valuable course](https://www.udemy.com/course/django-python-advanced/) and help.**
