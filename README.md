@@ -64,10 +64,10 @@ Like
 ## How to get use swagger?
 
 >You need to open [Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
->![Image-1](https://www.hizliresim.com/luk94et)
->![Image-2](https://www.hizliresim.com/474901g)
->![Image-3](https://www.hizliresim.com/178e7h4)
->![Image-4](https://www.hizliresim.com/ohdqu6a)
+>![Image-1](assets/1.png)
+>![Image-2](assets/2.png)
+>![Image-3](assets/3.png)
+>![Image-4](assets/4.png)
 >After clicking the Autherize Button, you can do whatever you want. :) Have fun
 
 
