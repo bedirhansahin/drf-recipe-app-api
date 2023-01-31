@@ -63,7 +63,7 @@ Like
 
 ## How to use swagger?
 
-1. You need to open [Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)
+1. You need to open [Swagger Documentation](http://ec2-34-228-80-140.compute-1.amazonaws.com/api/docs/)(AWS time is up :(()
 2. Create a new user
 3. Create a new token using the user you just created
 4. Click the authorize button which on the top right of the page
